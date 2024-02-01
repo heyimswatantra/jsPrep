@@ -268,6 +268,3 @@ These are two web storage options available in mordern browsers, allows us to st
 | Storage location | client side. | server side. |
 | Data persistance | cookies have an expiration time and can persist beyond single session if specified. | sessions ends when user closes browser of after a certain period of inactivity. |
 | Security | less secure. | more secure. |
-
-## JS Runtime
-![Js Runtime Image](https://excalidraw.com/#json=uKsIafaM2qDSKvckeTl15,yKiZyonfFuhtBqxCp0hOXA)
